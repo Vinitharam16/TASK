@@ -1,3 +1,21 @@
-h5{
-    padding-top: 80px;
+.blue{
+    font-family:fantasy;
+    color: rgb(0, 27, 116);
+    font-size: xx-large;
+    border-radius: 3px solid black;
+    
+}
+.des{
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+.c1{
+    padding-top: 50px;
+    color:rgb(0, 27, 116);
+
+}
+.c2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 10px;
+    color: black;
 }
